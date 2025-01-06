@@ -1,4 +1,4 @@
-Firmware required: `RM500QGLABR11A06M4G`
+![image](https://github.com/user-attachments/assets/c1fffcb6-d040-45b6-a951-451ebd0127ef)Firmware required: `RM500QGLABR11A06M4G`
 
 In case, not this then upgrade the firmware.
 
@@ -41,3 +41,7 @@ AT+QPING=1,"openairinterface.org"
 Give it few minutes, and then check whether it's cellular name is changed or not.
 If not changed, then plug the module out and then plug it in.
 
+# Qcom 
+- Qcom can also be used as an AT Command Interface
+- Provided by Quectel
+- Navigate to qcom folder for more on this
