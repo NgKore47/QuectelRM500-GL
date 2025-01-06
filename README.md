@@ -3,7 +3,7 @@
 ## Pre-requisite:
 Operating System: `Windows`
 
-Firmware required: `RM500QGLABR11A06M4G`, upgrade it is not the exact firmware version.
+Firmware required: `RM500QGLABR11A06M4G_01.200.01.200`, upgrade if not the exact firmware version.
 
 **Note**: If required to upgrade then follow this [Upgrade.md](./Upgrade.md).
 
