@@ -22,6 +22,8 @@ Download the QFlash zip file:
 ### Example:
 For example, check the path for the **mbn** file in the firmware folder. This depends on the model of your Quectel device.
 
+![image](https://github.com/user-attachments/assets/5639c2fb-8144-4126-86ae-d4753149cfcc)
+
 ## 5. Baudrate Setup
 Ensure that the correct baudrate is configured before proceeding with the firmware upgrade.
 
